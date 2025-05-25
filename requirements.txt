@@ -1,6 +1,6 @@
 streamlit
 pandas
-kiteconnect
+
 telethon
 pytz
 openpyxl
